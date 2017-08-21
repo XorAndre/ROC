@@ -7,7 +7,7 @@ ROC é um framework que possibilita uma ampla organização em seu projeto. Feit
 <ol>
     <li>Átomos</li>
     <li>Moléculas</li>
-    <l>Organismos</l>
+    <li>Organismos</li>
     <li>Templates</li>
     <li>Páginas</li>
 </ol>
