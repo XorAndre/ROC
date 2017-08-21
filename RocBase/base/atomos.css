@@ -1,0 +1,14 @@
+/*imports fontes*/
+@import url('https://fonts.googleapis.com/css?family=Allan');/*Allan*/
+@import url('https://fonts.googleapis.com/css?family=Molengo');/*Molengo*/
+/*reset*/
+*{
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+/*cores*/
+
+/*Estilos de Fontes para títulos*/
+.Allan{font-family: 'Allan', cursive;}
+.molengo{font-family: 'Molengo', sans-serif;}
