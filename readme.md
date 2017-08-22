@@ -16,11 +16,11 @@ ROC é um framework que possibilita uma ampla organização em seu projeto. Feit
 Para usar é bem simples em sua página insira os códigos da base da index.html localizada na pasta RocBase e logo depois é só incrementar seu estilo na pagina.css. O framework tem um arquivo core em stylus que pega todos as folhas de estilo da página e compilando em um unico só arquivo chamado ROC.css, isso faz com que o seu projeto ande na linha na questão organização veja abaixo como é a estrutura.
 <br>
 <pre>
-    @import'atomos.css'
-    @import'moleculas.css'
-    @import'organismo.css'
-    @import'modelo.css'
-    @import'pagina.css'
+    @import'atomos.styl'
+    @import'moleculas.styl'
+    @import'organismo.styl'
+    @import'modelo.styl'
+    @import'pagina.styl'
 </pre>
 <br>
 Lembrando que este framework vem com apenas o necessário para seu projeto! No framework você pode encontrar alguns boxes, botões, sistema de grid, formulários e mídias responsivas. Fora isso você já tem um esquema de organização já modulado de mídias queryes mais usadas atualmente no mercado.    
