@@ -1,14 +1,10 @@
 /*
 ROC Framework
+Autor: André Rodrigues (xor)
 */
 @import url("https://fonts.googleapis.com/css?family=Allan");
 @import url("https://fonts.googleapis.com/css?family=Molengo");
 @import url("https://fonts.googleapis.com/css?family=Dancing+Script");
-* {
-  font-size: 100%;
-  margin: 0;
-  padding: 0;
-}
 .Allan {
   font-family: 'Allan', cursive;
 }
@@ -17,4 +13,10 @@ ROC Framework
 }
 .molengo {
   font-family: 'Molengo', sans-serif;
+}
+* {
+  box-sizing: border-box;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
 }
