@@ -1,14 +1,21 @@
 /*imports fontes*/
-@import url('https://fonts.googleapis.com/css?family=Allan');/*Allan*/
-@import url('https://fonts.googleapis.com/css?family=Molengo');/*Molengo*/
+@import url("https://fonts.googleapis.com/css?family=Allan");
+@import url("https://fonts.googleapis.com/css?family=Molengo");
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
 /*reset*/
-*{
-    font-size: 100%;
-    margin: 0;
-    padding: 0;
+* {
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
 }
 /*cores*/
-
 /*Estilos de Fontes para títulos*/
-.Allan{font-family: 'Allan', cursive;}
-.molengo{font-family: 'Molengo', sans-serif;}
+.Allan {
+  font-family: 'Allan', cursive;
+}
+.Dancing {
+  font-family: 'Dancing Script', cursive;
+}
+.molengo {
+  font-family: 'Molengo', sans-serif;
+}
