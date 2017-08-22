@@ -12,7 +12,7 @@ ROC é um framework que possibilita uma ampla organização em seu projeto. Feit
     <li>Páginas</li>
 </ol><br>
 #### Caso não saiba lidar com Stylus acesse o site do pré processador no link abaixo<br>
-<a href="http://stylus-lang.com/" name="site stylus" tiltle="Link site stylus">Site Stylus</a>
+<a href="http://stylus-lang.com/" name="site stylus" tiltle="Link site stylus">Site Stylus</a><br>
 #### Como usar?
 <br>
 Para usar é bem simples em sua página insira os códigos da base da index.html localizada na pasta RocBase e logo depois é só incrementar seu estilo na pagina.styl. O framework tem um arquivo core em stylus que pega todos as folhas de estilo da página e compilando em um unico só arquivo chamado ROC.css, isso faz com que o seu projeto ande na linha na questão organização veja abaixo como é a estrutura.
